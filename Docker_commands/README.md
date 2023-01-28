@@ -21,7 +21,7 @@ docker ps
 ```
 
 
-### steps to push a custom built docker image from local machine to gcr:
+### Steps to push a custom built docker image from local machine to gcr:
 
 
 * docker [tag](https://docs.docker.com/engine/reference/commandline/tag/)
@@ -46,7 +46,7 @@ eg: docker push gcr.io/<project_path>/demo_docker_image:latest
 
 ```
 
-### steps to pull a docker image from gcr to local machine:
+### Steps to pull a docker image from gcr to local machine:
 
 
 * docker [pull](https://docs.docker.com/engine/reference/commandline/pull/)
