@@ -110,7 +110,15 @@ jupyter-notebook
 
 ### Install : GSUTIL
 
-```
-Follow this [link](https://cloud.google.com/sdk/docs/install#deb)
 
-```
+* [Gsutil installation link](https://cloud.google.com/sdk/docs/install#deb)
+
+
+### Install : Docker
+
+* [Docker installation Link](https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/)
+
+
+### Install : NVIDIA Driver and Cuda
+
+* [NVIDIA Driver and Cuda Installation link](https://jackfrisht.medium.com/install-nvidia-driver-via-ppa-in-ubuntu-18-04-fc9a8c4658b9)
