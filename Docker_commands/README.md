@@ -5,6 +5,24 @@
 **Last modified: 28/01/2023**
 
 
+### List Docker images:
+
+```
+
+docker images
+
+```
+
+
+### List Docker containers:
+
+```
+
+docker ps
+
+```
+
+
 ### steps to push a custom built docker image from local machine to gcr
 
 
@@ -26,7 +44,7 @@ eg: docker tag demo_docker_image:latest gcr.io/<project_path>/demo_docker_image:
 docker push TARGET_IMAGE[:TAG]
 
 
-eg: docker push gcr.io/vision-intel-89531/track-confidence:latest
+eg: docker push gcr.io/<project_path>/demo_docker_image:latest
 
 ```
 
@@ -40,11 +58,23 @@ eg: docker push gcr.io/vision-intel-89531/track-confidence:latest
 docker pull TARGET_IMAGE[:TAG]
 
 
-eg: docker pull gcr.io/vision-intel-89531/track-confidence:latest
+eg: docker pull gcr.io/<project_path>/demo_docker_image:latest
 
 ```
 
-### Command to install the additional packages inside the docker container and update the container with the updated packages 
+### Command to commit a container’s file changes or settings into a new image
+
+
+* docker [commit](https://docs.docker.com/engine/reference/commandline/commit/)
+
+```
+
+docker commit CONTAINER_ID TARGET_IMAGE[:TAG]
+
+eg: docker commit c3f279d17e0a  demo_docker_image:latest
+
+
+```
 
 
 
