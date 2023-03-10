@@ -2,7 +2,7 @@
 
 **Author: Abhishek Dey**
 
-**Last modified: 28/01/2023**
+**Last modified: 10/03/2023**
 
 
 ### Install : Google Chrome
@@ -107,6 +107,11 @@ source ~/.bashrc
 jupyter-notebook
 
 ```
+
+### Install : Visual Studio Code (VS Code)
+
+* [Visual Studio Code Installation link](https://phoenixnap.com/kb/install-vscode-ubuntu)
+
 
 ### Install : GSUTIL
 
