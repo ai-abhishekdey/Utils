@@ -130,7 +130,7 @@ jupyter-notebook
 
 ### Install Mysql in Ubuntu
 
-*  [Reference Link]('https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04')
+*  [Reference Link](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04)
 
 * Step 1 — Installing MySQL
 
