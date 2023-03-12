@@ -128,7 +128,9 @@ jupyter-notebook
 
 * [NVIDIA Driver and Cuda Installation link](https://jackfrisht.medium.com/install-nvidia-driver-via-ppa-in-ubuntu-18-04-fc9a8c4658b9)
 
-### Install Mysql in Ubuntu [Reference Link]('https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04')
+### Install Mysql in Ubuntu
+
+*  [Reference Link]('https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-22-04')
 
 * Step 1 — Installing MySQL
 
