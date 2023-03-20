@@ -2,7 +2,7 @@
 
 **Author: Abhishek Dey**
 
-**Last modified: 28/01/2023**
+**Last modified: 20/03/2023**
 
 
 ### Install : Google Chrome
@@ -122,3 +122,10 @@ jupyter-notebook
 ### Install : NVIDIA Driver and Cuda
 
 * [NVIDIA Driver and Cuda Installation link](https://jackfrisht.medium.com/install-nvidia-driver-via-ppa-in-ubuntu-18-04-fc9a8c4658b9)
+
+
+### Install : Visual Studio Code (VS Code)
+
+* [Visual Studio Code Installation link](https://phoenixnap.com/kb/install-vscode-ubuntu)
+
+
