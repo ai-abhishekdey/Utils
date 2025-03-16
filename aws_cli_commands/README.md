@@ -93,7 +93,7 @@ ssh -i "aws-key-pair.pem" ubuntu@ec2-xx-xxx-xxx-xx.compute-1.amazonaws.com
 
 ```
 
-scp -i "aws-key-pair.pem" -r test_img.jpg  ubuntu@ec2-xx-xxx-xxx-xx.compute-1.amazonaws.com:/home/ubuntu/ad-workspace
+scp -i "aws-key-pair.pem" test_img.jpg  ubuntu@ec2-xx-xxx-xxx-xx.compute-1.amazonaws.com:/home/ubuntu/ad-workspace
 
 ```
 
@@ -197,6 +197,9 @@ Total Objects: 2
 
 ## References:
 
+* https://www.youtube.com/watch?v=0SYV7o_fd50
+
+* https://www.youtube.com/watch?v=4Qd2pThNTtY
 
 * https://www.youtube.com/watch?v=wmcKUcgVbH8
 
