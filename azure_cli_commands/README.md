@@ -81,6 +81,7 @@ az storage blob upload \
   --name <filename> 
   
 ```
+Eg:
 
 ```
 az storage blob upload \
